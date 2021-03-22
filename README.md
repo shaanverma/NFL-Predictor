@@ -1,15 +1,17 @@
+
 # NFL-Predictor
 
 This repo compares compares several neural network models to predict NFL player statistics.
 
 <h4>Description</h4>
-1) Artificial Neural Networks (ANN)
 
-2) Convolution Neural Networks (CNN)
+<ol>
+  <li>Artificial Neural Networks [ANN]</li>
+  <li>Convolution Neural Networks [CNN]</li>
+  <li>Recurrent Neural Networks [RNN]</li>
+  <li>Spiking Neural Networks [SNN]</li>
+</ol>  
 
-3) Recurrent Neural Networks (RNN)
-
-4) Spiking Neural Networks (SNN)
 
 
 <h4>Dataset</h4>
