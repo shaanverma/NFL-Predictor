@@ -2,6 +2,7 @@
 
 This repo compares compares several neural network models to predict NFL player statistics.
 
+<h4>Description</h4>
 1) Artificial Neural Networks (ANN)
 
 2) Convolution Neural Networks (CNN)
@@ -15,7 +16,9 @@ This repo compares compares several neural network models to predict NFL player 
 Nfl player data was downloaded as excel workbooks from https://www.pro-football-reference.com/ 
 
 
-<h4>Packages</h4>
-Numpy
-Scikitlearn
-Brian2
+<h4>Python Libraries</h4>
+<ul>
+  <li>Numpy</li>
+  <li>Scikitlearn</li>
+  <li>Brian2</li>
+</ul>  
