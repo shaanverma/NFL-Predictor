@@ -1,6 +1,6 @@
 # NFL-Predictor
 
-This repo compares compares several neural network models to predict NFL player data.
+This repo compares compares several neural network models to predict NFL player statistics.
 
 1) Artificial Neural Networks (ANN)
 
@@ -12,8 +12,10 @@ This repo compares compares several neural network models to predict NFL player 
 
 
 <h4>Dataset</h4>
-The nflgame python api was used to load the player data in the analysis and examples.
+Nfl player data was downloaded as excel workbooks from https://www.pro-football-reference.com/ 
 
-https://pypi.org/project/nflgame/
 
-[Note: Does not work with Python 3 and requires Python 2.6+]
+<h4>Packages</h4>
+Numpy
+Scikitlearn
+Brian2
